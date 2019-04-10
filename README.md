@@ -1,2 +1,2 @@
 # Exercise1
-Biodata saya
+Javascript Development Course Batch 15
